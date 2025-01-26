@@ -62,3 +62,11 @@ Error Handling
 Invalid Username: If GitHub returns a 404, the script prints an error message.
 Network Issues: urllib.error.URLError is caught and shows a brief error message.
 Status Codes: If the status code isn’t 200, the script prints out the received status code.
+
+
+Idea By:
+https://roadmap.sh/projects/github-user-activity
+
+
+
+
